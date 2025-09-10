@@ -1,6 +1,0 @@
-Income - 1000.00 salary
-Income - 100.00 shop
-Income - 1111.00 11
-Income - 100000.00 salary
-Expense - 2000.00 new car
-Income - 112323.00 ola
